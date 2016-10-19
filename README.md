@@ -8,5 +8,5 @@
 -        <!--启动延迟-->
 -        \<property name="startDelay" value="0" /\> 
         <!--重复次数-->
--        \<property name="repeatInterval" value="10000" \/>  
+-        \<property name="repeatInterval" value="10000" /\>  
 - \</bean\>  
