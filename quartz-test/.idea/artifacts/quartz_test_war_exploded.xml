@@ -10,6 +10,7 @@
         <element id="directory" name="lib">
           <element id="library" level="project" name="Spring-4.3.3.RELEASE" />
           <element id="library" level="project" name="Spring MVC-4.3.3.RELEASE" />
+          <element id="library" level="project" name="slf4j-api-1.7.7" />
         </element>
       </element>
     </root>
